@@ -1,5 +1,6 @@
 {
     "name": "c7p2-choo kai hong",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
